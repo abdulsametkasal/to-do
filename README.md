@@ -1,2 +1,3 @@
-# to-do
-To-Do List
+Install Python
+Install Django
+You're Ready to Use
